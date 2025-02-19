@@ -1,0 +1,16 @@
+{
+  "name": "redis-background-poller",
+  "version": "1.0.0",
+  "description": "A simple nodejs poller for http requests, using redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ioredis": "^5.4.2",
+    "moment": "^2.30.1",
+    "redis": "^4.7.0"
+  }
+}
